@@ -6,3 +6,4 @@ Git is a mutable index called stage.
 Git tracks changes of files.
 Git is so cool!
 Creating a new branch is quick.
+Oh!That's so cool!
